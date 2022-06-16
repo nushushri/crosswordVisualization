@@ -5,4 +5,4 @@ I first downloaded our Facebook Messenger conversations as a JSON object, and us
 
 The color of the ellipses is based on the month. The width of the ellipses represents our time on the mini crossword, and the height of the ellipses represents our time on the mini archive crossword. 
 
-The "mytimes.png" shows my figure that was output. The recording.mov file shows a video of both of our figures.
+The "mytimes.png" shows my figure that was output based on my data. The csv file also has my data. The recording.mov file shows a video of both figures for my friend and me.
