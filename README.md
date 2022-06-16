@@ -6,3 +6,5 @@ I first downloaded our Facebook Messenger conversations as a JSON object, and us
 The color of the ellipses is based on the month. The width of the ellipses represents our time on the mini crossword, and the height of the ellipses represents our time on the mini archive crossword. 
 
 The "mytimes.png" shows my figure that was output based on my data. The csv file also has my data. The recording.mov file shows a video of both figures for my friend and me.
+
+The regex was able to extract about 187 days worth of data--not bad considering that there were ~240 days between May 6 and January 21 (when we played) and we skipped playing once in a while. A few trends that I noticed was that my friend's times were more consistent than mine (my ellipses were varied in width/height) and her average times seemed to be smaller (smaller width/height). I also noticed that there wasn't a lot of improvement over time for either of us.
